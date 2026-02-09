@@ -78,8 +78,8 @@ Additional materials on backpropagation:
 
 ### Installation
 ```bash
-# Clone the repository
-git clone https://github.com/Aryan2vb/DL.git
+# Clone the repository (replace <username> with the repository owner)
+git clone https://github.com/<username>/DL.git
 cd DL
 
 # Install required packages (if requirements.txt exists)
@@ -114,7 +114,7 @@ This repository serves as an educational resource. Feel free to:
 
 ## License
 
-Please refer to the repository license file for usage terms.
+This repository is provided for educational purposes. Please contact the repository owner regarding usage terms and licensing.
 
 ## Acknowledgments
 
